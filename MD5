@@ -1,6 +1,6 @@
-be011ea7a16f08b1e939120fdf8250cc *DESCRIPTION
-3fb26f0dad7b37599f7403b6a649ae2c *NAMESPACE
-bf8aeba92030310809466a999f4606d8 *NEWS
+a75245c95253ee5572bc66604ec9715b *DESCRIPTION
+63d7ef08435fa0f694db697b3d282517 *NAMESPACE
+7bd25162ab50ad90715cb076ac6ba12d *NEWS
 df545f6db76693ac0da5874d260c9397 *R/df_to_blocks.r
 7b6ae6ed643afefa3b68123f683bb6e8 *R/dummy_to_list.r
 6a6aa53bf69408fd28ec21a4dd7b74a0 *R/factor_to_dummy.r
@@ -11,14 +11,15 @@ fe29301813491a8edaab08cf0380d9cf *R/indexify.r
 77a142aec6df48609014898d7eb5fbce *R/list_ones.r
 7d6220c4a8196d7404fa19762e9d83ac *R/list_to_dummy.r
 5c5cd1f5f9fc230e5d2f3ccd30dcd29e *R/list_to_matrix.r
-16cad97b57305775b58d3400fc1d8dcd *R/listify.r
+45aa00430e7e6cbf53382215ca300200 *R/listify.r
 e5bb8c2f11eac2deaea72a7f963ffc0c *R/listsize.r
 bb642f5501b12b9b1f670f6fde0f99ad *R/matrix_to_blocks.r
+a42577e220a8164e6c6a765f68055f39 *R/turner-package.r
 11294cb83cf4e96b6fe49666ee580d5a *R/vector_to_dummy.r
-0d552d13038c2af712b0f334d20b4bf6 *README.md
+6dd5ca30f976c8f018b0595ba2753c40 *build/vignette.rds
 c6df11925ef40f8b232188cf7b1cfec6 *inst/doc/turner_introduction.R
-972e78f5dd6825960f90ee7ad7e534c1 *inst/doc/turner_introduction.Rnw
-0948b6a726b2fa3c4b851565ff7e3405 *inst/doc/turner_introduction.pdf
+7ea007baf47b437e31d3aa468a81ead5 *inst/doc/turner_introduction.Rnw
+d3422f23d84ce011e760b5d3685f70c7 *inst/doc/turner_introduction.pdf
 5dd5428f5b08d0bafc28ce0c32aa8508 *inst/tests/test-fromto.r
 f3001f4f9053f389353d15e815a9cfc9 *inst/tests/test-indexify.r
 41f79a3fb32dc572c42b8bc8ae0ac058 *inst/tests/test-lengths.r
@@ -42,5 +43,6 @@ afffcf8ef21bc70a9094dd6b952d8422 *man/meanlist.Rd
 58bf8b03676db5696215b3ef48d12811 *man/minlist.Rd
 9bc01352e2db01664a3c3a8793a7795c *man/prodlist.Rd
 8c39585bd4ff0b24a17c1fd0964e298b *man/sumlist.Rd
+71377e3b6a9ba01d981c2ee7b0bbc28a *man/turner-package.Rd
 be7881723f279dfbc0174463a1732d69 *man/vector_to_dummy.Rd
-972e78f5dd6825960f90ee7ad7e534c1 *vignettes/turner_introduction.Rnw
+7ea007baf47b437e31d3aa468a81ead5 *vignettes/turner_introduction.Rnw
