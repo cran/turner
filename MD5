@@ -1,4 +1,4 @@
-a75245c95253ee5572bc66604ec9715b *DESCRIPTION
+dfc79dd9f771e85a8d963ea4e106af56 *DESCRIPTION
 63d7ef08435fa0f694db697b3d282517 *NAMESPACE
 7bd25162ab50ad90715cb076ac6ba12d *NEWS
 df545f6db76693ac0da5874d260c9397 *R/df_to_blocks.r
@@ -14,12 +14,12 @@ fe29301813491a8edaab08cf0380d9cf *R/indexify.r
 45aa00430e7e6cbf53382215ca300200 *R/listify.r
 e5bb8c2f11eac2deaea72a7f963ffc0c *R/listsize.r
 bb642f5501b12b9b1f670f6fde0f99ad *R/matrix_to_blocks.r
-a42577e220a8164e6c6a765f68055f39 *R/turner-package.r
+39bc9b03f18faa3fb62fcadabc59c005 *R/turner.r
 11294cb83cf4e96b6fe49666ee580d5a *R/vector_to_dummy.r
-6dd5ca30f976c8f018b0595ba2753c40 *build/vignette.rds
-c6df11925ef40f8b232188cf7b1cfec6 *inst/doc/turner_introduction.R
-7ea007baf47b437e31d3aa468a81ead5 *inst/doc/turner_introduction.Rnw
-d3422f23d84ce011e760b5d3685f70c7 *inst/doc/turner_introduction.pdf
+a45f6e7f23d00dd286cadafa951eed10 *build/vignette.rds
+55750adc8ed9f57e1d435c9acd09cc0d *inst/doc/turner_introduction.R
+6452118892448ad5f520c65e1bc53d2f *inst/doc/turner_introduction.Rnw
+8df0bd80eea8d8483169a2d5df2a8ad4 *inst/doc/turner_introduction.pdf
 5dd5428f5b08d0bafc28ce0c32aa8508 *inst/tests/test-fromto.r
 f3001f4f9053f389353d15e815a9cfc9 *inst/tests/test-indexify.r
 41f79a3fb32dc572c42b8bc8ae0ac058 *inst/tests/test-lengths.r
@@ -43,6 +43,6 @@ afffcf8ef21bc70a9094dd6b952d8422 *man/meanlist.Rd
 58bf8b03676db5696215b3ef48d12811 *man/minlist.Rd
 9bc01352e2db01664a3c3a8793a7795c *man/prodlist.Rd
 8c39585bd4ff0b24a17c1fd0964e298b *man/sumlist.Rd
-71377e3b6a9ba01d981c2ee7b0bbc28a *man/turner-package.Rd
+e501cda468b1c196f05bc54643184b33 *man/turner.Rd
 be7881723f279dfbc0174463a1732d69 *man/vector_to_dummy.Rd
-7ea007baf47b437e31d3aa468a81ead5 *vignettes/turner_introduction.Rnw
+6452118892448ad5f520c65e1bc53d2f *vignettes/turner_introduction.Rnw
