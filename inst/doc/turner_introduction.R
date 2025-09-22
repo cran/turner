@@ -49,8 +49,8 @@ some_data[,blocks[[1]]]
 str_list = list(c("a","b","c"), c("d", "e"), c("f","g","h","i"))
 
 ## ----failed_extraction, eval=FALSE--------------------------------------------
-#  # failed attempt
-#  some_data[,str_list[[1]]]
+# # failed attempt
+# some_data[,str_list[[1]]]
 
 ## ----success_extraction-------------------------------------------------------
 # start-end position for 'str_list'
